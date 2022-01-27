@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+.background{
+    background-image: url(./images/paris.jpg);
+    background-image: cover;
+    top:20%;
+    left: 50%;
+    transform: translateX(-50%,-50%);
+    position: absolute;
+   
+
+}
+.heading{
+    position: relative;
+    /* font-family: Great-Vibes; */  
+    right: 10%;
+    top: 20%;
+    transform: translateX(150%);
+
+    color: beige;
+   
+    letter-spacing: 4.0px;
+
+    
+}
+.heading1{
+    font-family: Great Vibes;
+    font-weight: bold;
+    font-size:  45px;
+    
+
+}
